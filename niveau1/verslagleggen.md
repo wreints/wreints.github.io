@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Verslagleggen
 parent: Niveau 1
 ---
