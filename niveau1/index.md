@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Niveau 1
 has_children: true
 ---
