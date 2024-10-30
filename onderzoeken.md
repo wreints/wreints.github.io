@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Onderzoeken
 ---
 
@@ -43,5 +43,5 @@ Mogelijke bronnen zijn:
 - Deskundigen met kennis van het object of koloniale geschiedenis
    
 De zoekhulp [Bronnen voor herkomstonderzoek](niveau1/Dutch/Sources_20240425.yml) geeft informatie over waar deze bronnen te vinden zijn. Achtergronden van personen, koloniale instellingen en gebeurtenissen kan via de zoekhulpen binnen de datahub worden achterhaald, of elders worden gevonden, zoals op Wikipedia. Houd er rekening mee dat in de Nederlandstalige versie van Wikipedia veelal informatie vanuit koloniaal perspectief ongefilterd is overgenomen. Het is daarom aanbevolen om ook altijd de versie in de taal van het herkomstgebied te raadplegen.
-    
-    Een aantal van de Nederlandse bronnen voor herkomstonderzoek naar koloniale collecties is inmiddels gedigitaliseerd, hetgeen het onderzoek aanzienlijk vergemakkelijkt. Digitale databanken worden voortdurend aangevuld. Het loont daarom om een zoektocht die niets heeft opgeleverd na enige tijd te herhalen.
+
+Een aantal van de Nederlandse bronnen voor herkomstonderzoek naar koloniale collecties is inmiddels gedigitaliseerd, hetgeen het onderzoek aanzienlijk vergemakkelijkt. Digitale databanken worden voortdurend aangevuld. Het loont daarom om een zoektocht die niets heeft opgeleverd na enige tijd te herhalen.
