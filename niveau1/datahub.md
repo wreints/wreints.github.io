@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Hoe kan ik de Datahub gebruiken voor mijn onderzoek?
 parent: Niveau 1
 ---
