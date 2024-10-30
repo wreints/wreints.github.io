@@ -23,14 +23,14 @@ Archieven van zendings- en missieorganisaties zijn verspreid. Omvangrijke archie
 
 ### Bronnen
 **Primaire bronnen**  
-|
+|  
 Kaart  
 Zendingstereinen Indonesië  
 https://resources.huygens.knaw.nl/media/missiezending/afb/zendingsterreinenindonesie.jpg  
 De zendingskaart in het Repertorium van Nederlandse zendings- en missiearchieven 1800-1960 geeft een overzicht van welke protestantse organisaties actief waren in voormalig Nederlands-Indië.  
-|
+|  
 Webportal  
 Repertorium van Nederlandse zendings- en missiearchieven 1800-1960  
 https://resources.huygens.knaw.nl/repertoriumzendingmissie  
 Het Repertorium van Nederlandse zendings- en missiearchieven 1800-1960 is een portal met beschrijvingen van zending- en missieorganisaties, literatuurverwijzingen en informatie over archiefbronnen.  
-|
+|  
