@@ -1,7 +1,7 @@
 ---
 layout: home
+title: Home - de Digitale Onderzoeksgids
 ---
-# Digitale onderzoeksgids
 
 *Zoekhulpen bij het doen van herkomstonderzoek naar koloniale collecties*
 
