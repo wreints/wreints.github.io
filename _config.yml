@@ -1,9 +1,8 @@
-# Site settings
-title: NIOD Digitale Onderzoeksgids Koloniale Collecties
-author:
-  name: Wiebe Reints
-  email: w.reints@niod.knaw.nl
-description: "Test website voor het publiceren van zoekhulpen."
+title: NIOD Digitale Onderzoeksgids
+description: Testwebsite voor het zoekhulpen-project
+theme: just-the-docs
 
-# Build settings
-remote_theme: just-the-docs
+url: https://wreints.github.io/
+
+aux_links:
+  Template Repository: https://github.com/just-the-docs/just-the-docs-template
