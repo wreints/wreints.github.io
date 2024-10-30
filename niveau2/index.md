@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Niveau 1
+title: Niveau 2
 has_children: true
 ---
 
