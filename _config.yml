@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: NIOD Digitale Onderzoeksgids
+description: Testpagina voor het publiceren van zoekhulpen
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://wreints.github.io/
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
