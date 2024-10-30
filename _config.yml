@@ -6,4 +6,4 @@ author:
 description: "Test website voor het publiceren van zoekhulpen."
 
 # Build settings
-remote_theme: jekyll/minimal
+remote_theme: jekyll/minima
