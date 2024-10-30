@@ -22,7 +22,7 @@ Zendingswerkers werkten soms in specifieke functies, zoals arts, verpleegkundige
 Archieven van zendings- en missieorganisaties zijn verspreid. Omvangrijke archiefcollecties bevinden zich in het [Utrechts Archief](https://hetutrechtsarchief.nl/), [Archief- en Documentatiecentrum van de Gereformeerde Kerken in Nederland](https://adckampen.nl/), [HDC Protestants Erfgoed](https://vu.nl/nl/over-de-vu/diensten/universiteitsbibliotheek/meer-over/collectie-hdc-protestants-erfgoed) bij de Vrije Universiteit, [Katholiek Documentatie Centrum](https://www.ru.nl/kdc/), en het [Erfgoedcentrum Nederlands Kloosterleven](https://erfgoedkloosterleven.nl/). Ook in de landen waar de zending en missie actief waren, zijn veelal nog archieven te vinden, vaak zijn deze in bezit van de organisaties zelf.
 
 ### Bronnen
-**Primaire bronnen**
+**Primaire bronnen**  
 |
 Kaart  
 Zendingstereinen Indonesië  
