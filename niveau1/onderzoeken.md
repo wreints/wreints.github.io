@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Onderzoeken
+parent: Niveau 1
 ---
 
 ## Welk stappenplan kan je volgen?
