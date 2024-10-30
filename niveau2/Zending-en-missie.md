@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bronnen
+title: Zending en missie
 parent: Niveau 2
 ---
 ### Beschrijving
@@ -35,7 +35,7 @@ Archieven van zendings- en missieorganisaties zijn verspreid. Omvangrijke archie
     - URL: "https://resources.huygens.knaw.nl/repertoriumzendingmissie"
   Description and remarks: "Het Repertorium van Nederlandse zendings- en missiearchieven 1800-1960 is een portal met beschrijvingen van zending- en missieorganisaties, literatuurverwijzingen en informatie over archiefbronnen."
 ```
-** Secundaire bronnen**
+**Secundaire bronnen**
 ```
 - Type of source: "Artikel"
   Name: "Corbey, Raymond, en Karel Weener. 'Collecting While Converting: Missionaries and Ethnographics.' Journal of Art Historiography 12 (2015)."
