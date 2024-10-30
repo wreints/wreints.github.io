@@ -19,18 +19,18 @@ Informatie van individuele zendingswerkers is vaak te vinden in literatuur over 
     
 Zendingswerkers werkten soms in specifieke functies, zoals arts, verpleegkundige of onderwijzer, en worden onder die functies omschreven in de bronnen. Zij zijn dan als zendingswerker te herkennen door te kijken naar de organisatie waarvoor zij werkten.
     
-Archieven van zendings- en missieorganisaties zijn verspreid. Omvangrijke archiefcollecties bevinden zich in het [Utrechts Archief](https://hetutrechtsarchief.nl/), [Archief- en Documentatiecentrum van de Gereformeerde Kerken in Nederland](https://adckampen.nl/), [HDC|Protestants Erfgoed](https://vu.nl/nl/over-de-vu/diensten/universiteitsbibliotheek/meer-over/collectie-hdc-protestants-erfgoed) bij de Vrije Universiteit, [Katholiek Documentatie Centrum](https://www.ru.nl/kdc/), en het [Erfgoedcentrum Nederlands Kloosterleven](https://erfgoedkloosterleven.nl/). Ook in de landen waar de zending en missie actief waren, zijn veelal nog archieven te vinden, vaak zijn deze in bezit van de organisaties zelf.
+Archieven van zendings- en missieorganisaties zijn verspreid. Omvangrijke archiefcollecties bevinden zich in het [Utrechts Archief](https://hetutrechtsarchief.nl/), [Archief- en Documentatiecentrum van de Gereformeerde Kerken in Nederland](https://adckampen.nl/), [HDC Protestants Erfgoed](https://vu.nl/nl/over-de-vu/diensten/universiteitsbibliotheek/meer-over/collectie-hdc-protestants-erfgoed) bij de Vrije Universiteit, [Katholiek Documentatie Centrum](https://www.ru.nl/kdc/), en het [Erfgoedcentrum Nederlands Kloosterleven](https://erfgoedkloosterleven.nl/). Ook in de landen waar de zending en missie actief waren, zijn veelal nog archieven te vinden, vaak zijn deze in bezit van de organisaties zelf.
 
 ### Bronnen
 **Primaire bronnen**
----
-- Kaart
-  Zendingstereinen Indonesië
-  https://resources.huygens.knaw.nl/media/missiezending/afb/zendingsterreinenindonesie.jpg
-  De zendingskaart in het Repertorium van Nederlandse zendings- en missiearchieven 1800-1960 geeft een overzicht van welke protestantse organisaties actief waren in voormalig Nederlands-Indië.
----
-- Webportal
-  Repertorium van Nederlandse zendings- en missiearchieven 1800-1960
-  https://resources.huygens.knaw.nl/repertoriumzendingmissie
-  Het Repertorium van Nederlandse zendings- en missiearchieven 1800-1960 is een portal met beschrijvingen van zending- en missieorganisaties, literatuurverwijzingen en informatie over archiefbronnen.
----
+|
+Kaart  
+Zendingstereinen Indonesië  
+https://resources.huygens.knaw.nl/media/missiezending/afb/zendingsterreinenindonesie.jpg  
+De zendingskaart in het Repertorium van Nederlandse zendings- en missiearchieven 1800-1960 geeft een overzicht van welke protestantse organisaties actief waren in voormalig Nederlands-Indië.  
+|
+Webportal  
+Repertorium van Nederlandse zendings- en missiearchieven 1800-1960  
+https://resources.huygens.knaw.nl/repertoriumzendingmissie  
+Het Repertorium van Nederlandse zendings- en missiearchieven 1800-1960 is een portal met beschrijvingen van zending- en missieorganisaties, literatuurverwijzingen en informatie over archiefbronnen.  
+|
