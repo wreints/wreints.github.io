@@ -1,3 +1,8 @@
+---
+layout: default
+title: Selecteren en afbakenen
+parent: Niveau 1
+---
 ## Hoe herken je voorwerpen uit een koloniale context?
     
 In veel Nederlandse museale en andere collecties zijn objecten aanwezig die zijn verworven in een koloniale context. Soms zijn deze niet traceerbaar omdat de registratie geen plaats of cultuur van vervaardiging vermeldt. Dit kan zijn omdat voorwerpen geregistreerd zijn met algemene termen, zoals “oosters” of “Afrikaans”, die onvoldoende informatie geven over de specifieke culturele herkomst.
