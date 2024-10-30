@@ -23,7 +23,7 @@ Archieven van zendings- en missieorganisaties zijn verspreid. Omvangrijke archie
 
 ### Bronnen
 **Primaire bronnen**
----
+```
 - Type of source: "Kaart"
   Name: "Zendingstereinen Indonesië"
   Link: 
@@ -34,9 +34,9 @@ Archieven van zendings- en missieorganisaties zijn verspreid. Omvangrijke archie
   Link: 
     - URL: "https://resources.huygens.knaw.nl/repertoriumzendingmissie"
   Description and remarks: "Het Repertorium van Nederlandse zendings- en missiearchieven 1800-1960 is een portal met beschrijvingen van zending- en missieorganisaties, literatuurverwijzingen en informatie over archiefbronnen."
----
-**Secundaire bronnen**
----
+```
+** Secundaire bronnen**
+```
 - Type of source: "Artikel"
   Name: "Corbey, Raymond, en Karel Weener. 'Collecting While Converting: Missionaries and Ethnographics.' Journal of Art Historiography 12 (2015)."
   Link: 
@@ -67,4 +67,4 @@ Archieven van zendings- en missieorganisaties zijn verspreid. Omvangrijke archie
   Link: 
     - URL: "https://doi.org/10.5040/9781474255554.ch-026"
   Description and remarks: "Hoofdstuk in het boek Religion in Museums van Chris Wingfield over missie musea."
----
+```
