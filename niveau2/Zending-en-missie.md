@@ -5,19 +5,12 @@ parent: Niveau 2
 ---
 ## Zending en Missie
 
-### Niveau 2
-**Titel:** Zending en Missie  
-**Samenvatting:** Protestante zendelingen en katholieke missionarissen droegen veelvuldig bij aan de verzameling van objecten gedurende het koloniale tijdperk.
-
----
-
 ### Gerelateerde zoekhulpen
-1. **[Bronnen](niveau1/Dutch/Bronnen_20240425.yml)** - (relatie: bredere context)
-2. **[Selecteren en afbakenen](niveau1/Dutch/SelecterenEnAfbakenen_20240425.yml)** - (relatie: bredere context)
-3. **[Wetenschap](niveau2/Dutch/Science_20240814.yml)** - (relatie: zie ook)
-4. **[Nederlandsch Zendeling Genootschap](niveau3/Dutch/NZG_20240314.yml)** - (relatie: voorbeeld)
+1. **[Bronnen](niveau1/Dutch/Bronnen_20240425.yml)**
+2. **[Selecteren en afbakenen](niveau1/Dutch/SelecterenEnAfbakenen_20240425.yml)** 
+3. **[Wetenschap](niveau2/Dutch/Science_20240814.yml)**
+4. **[Nederlandsch Zendeling Genootschap](niveau3/Dutch/NZG_20240314.yml)**
 
----
 
 ### Relevante Data
 
@@ -37,7 +30,7 @@ parent: Niveau 2
 - [Sulawesi](https://www.geonames.org/9062340)
 - [Suriname](https://www.geonames.org/3382998)
 
----
+
 
 ### Hoofdtekst
 
@@ -56,11 +49,11 @@ Informatie over individuele zendingswerkers kan worden gevonden in literatuur en
 Zendingsarchieven zijn onder andere aanwezig in:  
 - [Het Utrechts Archief](https://hetutrechtsarchief.nl/)
 - [Archief- en Documentatiecentrum van de Gereformeerde Kerken in Nederland](https://adckampen.nl/)
-- [HDC|Protestants Erfgoed](https://vu.nl/nl/over-de-vu/diensten/universiteitsbibliotheek/meer-over/collectie-hdc-protestants-erfgoed)
+- [HDC Protestants Erfgoed](https://vu.nl/nl/over-de-vu/diensten/universiteitsbibliotheek/meer-over/collectie-hdc-protestants-erfgoed)
 - [Katholiek Documentatie Centrum](https://www.ru.nl/kdc/)
 - [Erfgoedcentrum Nederlands Kloosterleven](https://erfgoedkloosterleven.nl/)
 
----
+
 
 ### Bronnen
 
