@@ -3,6 +3,16 @@ layout: default
 title: Zending en missie
 parent: Niveau 2
 ---
+| Relevante Data | Tags                     |                                                                                             |
+|----------------|---------------------------|---------------------------------------------------------------------------------------------|
+| Activiteit     | [Broeder](http://www.wikidata.org/entity/Q16824629)  | [Frater](http://vocab.getty.edu/aat/300266789)                                              |
+|                | [Missionaris](http://www.wikidata.org/entity/Q219477) | [Pater](http://www.wikidata.org/entity/Q435940)                                             |
+|                | [Zendeling](http://www.wikidata.org/entity/Q20746152) | [Zuster](https://www.wikidata.org/entity/Q191808)                                           |
+| Geografisch    | [China](https://www.geonames.org/1814991)            | [Congo](https://www.geonames.org/203312)                                                    |
+|                | [Indonesië](https://www.geonames.org/1643084)        | [Java](https://www.geonames.org/1642673)                                                    |
+|                | [Sulawesi](https://www.geonames.org/9062340)         | [Suriname](https://www.geonames.org/3382998)                                                |
+
+
 ### Beschrijving
     
 Vanuit Nederland werd er gedurende het koloniale tijdperk [zending](https://data.indischherinneringscentrum.nl/ied/104099) (protestants) en [missie](https://hdl.handle.net/20.500.11840/termmaster25128) (katholiek) bedreven. Beide christelijke groeperingen richtten zich op de Nederlandse koloniën, in het bijzonder Suriname en Nederlands-Indië, maar ook in onder andere in China, de Verenigde Staten en Congo waren zendelingen en missionarissen actief. Zending- en missieorganisaties hadden onderling regio’s afgebakend waarin zij actief waren, zonder dat daar verder officiële afspraken over waren. 
